@@ -34,6 +34,7 @@ It was built to move beyond traditional portfolios and demonstrate real-world sy
 
 ---
 
+
 ## 🧱 Tech Stack
 
 ### Frontend
